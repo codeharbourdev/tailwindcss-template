@@ -1,5 +1,3 @@
-# tailwindcss-template
-
 # TailwindCSS Template (v3.7.2)
 
 This is a basic Tailwind CSS setup using Vite, PostCSS, and Autoprefixer.
